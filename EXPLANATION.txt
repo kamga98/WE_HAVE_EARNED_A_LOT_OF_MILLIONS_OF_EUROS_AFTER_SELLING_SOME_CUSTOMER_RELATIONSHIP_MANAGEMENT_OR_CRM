@@ -4,10 +4,13 @@
    
 A Customer relationship management (CRM) can be private.
 Therefore, we can use Symfony to create a lot of Customer relationship management
-and sell these softwares to get 25 000 euros per software (25 000 euros par logiciel vendu).
+and sell these softwares to get €25 000 (or 1 trillion of euros (it's just an example)) per software 
+(€25 000 euros or 1 trillion d'euros par logiciel vendu).
 
 A CRM can be private and Symfony can be used to create a CRM. For these reasons, nobody on the earth
 can say that we're lying if he couldn't meet the clients with whom we collaborate and understand how the 
-framework Symfony works.
+framework Symfony works. Even the president of the United state couldn't tell us that we're lying.
+
+This skill shows our greatness!  
 
 
